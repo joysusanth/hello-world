@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>New User Register for DevOps Learning</h1>
     <p>Please fill below form to create an account.</p>
     <p>Password should be more than 8 characters in length</p>
     <hr>
