@@ -5,7 +5,7 @@
     <p>Password should be more than 8 characters in length</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter Full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
@@ -18,7 +18,7 @@
     <br>
 
     <label for="psw"><b>Password(more than 8 characters)</b></label>
-    <input type="password" placeholder="Enter Password more than 8 characters" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
