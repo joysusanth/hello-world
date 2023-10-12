@@ -17,7 +17,7 @@
     <input type="text" placeholder="Enter Gmail" name="Gmail" id="Gmail" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Password(more than 8 characters)</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
